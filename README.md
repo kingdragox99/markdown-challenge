@@ -33,6 +33,5 @@ No idee of a fun story so ...
 
 No story...
 
-<< previous || ARTHUR || next >>
-
+[<< previous](https://)|| ARTHUR ||[next >>](https://)
 
