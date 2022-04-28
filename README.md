@@ -1,13 +1,15 @@
 # ARTHUR LEFEVRE #
-### *“Your time is limited, so don't waste it living someone else's life.”* -Steve Jobs ###
+### *“Your time is limited, so don't waste it living someone else's life.”* Steve Jobs ###
 ------
 ![moi](/img/poulet.jpeg)
 
 #### Live like goofy ####
 
+| ASK              | answer  |
+| ------------------------| ----------- |
 | Birthday                | 20/12/1998  |
 | Favorite color          | Orange      |
-Pinneapple on pizza    YES [ ] NO [x]
+| Pinneapple on pizza     | black_square_button     |
 
 #### Hobbies ####
 
