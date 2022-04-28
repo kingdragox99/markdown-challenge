@@ -1,2 +1,4 @@
-# LERNING-GIT-V2
-# LERNING-GIT-V2
+#ARTHUR LEFEVRE
+===================
+*“Your time is limited, so don't waste it living someone else's life.”
+---------------------------------------------------------------------
