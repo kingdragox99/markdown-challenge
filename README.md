@@ -8,7 +8,7 @@
 | Birthday                | 20/12/1998  |
 | ------------------------| ----------- |
 | Favorite color          | Orange      |
-| Pinneapple on pizza     | &#9744;     |
+| Pinneapple on pizza     | [ ]     |
 
 #### Hobbies ####
 
