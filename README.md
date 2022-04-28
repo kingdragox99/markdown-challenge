@@ -23,3 +23,7 @@
 
 #### You can always count on me when you need help, I try to help you the best I can ####
 
+#### My contribution in team : ####
+I think I'm a positive guy and I can motivate my team to go together for the same goal
+
+
