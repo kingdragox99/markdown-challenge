@@ -1,7 +1,7 @@
 # ARTHUR LEFEVRE #
 ### *“Your time is limited, so don't waste it living someone else's life.”* Steve Jobs ###
 ------
-![moi](/img/poulet.jpeg)
+![moi](/img/moi.jpeg)
 
 #### Live like goofy ####
 
