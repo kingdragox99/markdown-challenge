@@ -27,11 +27,11 @@
 I think I'm a positive guy and I can motivate my team to go together for the same goal
 
 #### A funny story ####
-No idee of a fun story so ...
+It's a guy how enter in a coffe and plouf
 
 ##### TL;DR #####
 
-No story...
+plouf...
 
 [<< previous](https://)|| ARTHUR ||[next >>](https://)
 
