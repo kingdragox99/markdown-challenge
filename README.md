@@ -26,4 +26,13 @@
 #### My contribution in team : ####
 I think I'm a positive guy and I can motivate my team to go together for the same goal
 
+#### A funny story ####
+No idee of a fun story so ...
+
+##### TL;DR #####
+
+No story...
+
+<< previous || Arthur LEFEVRE || next >>
+
 
