@@ -12,10 +12,13 @@
 
 #### Hobbies ####
 
-- Playing CS:GO
-- Learn new stuff
-- Grow my plants
-- Be with my girlfriend
+* Playing game
+- CS:GO
+- CS:GO
+- CS:GO
+* Learn new stuff
+* Grow my plants
+* Be with my girlfriend
 
 #### You can always count on me when... ####
 
