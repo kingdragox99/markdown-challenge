@@ -33,6 +33,6 @@ No idee of a fun story so ...
 
 No story...
 
-<< previous || Arthur LEFEVRE || next >>
+<< previous || ARTHUR || next >>
 
 
