@@ -8,8 +8,8 @@
 | ASK              | answer  |
 | ------------------------| ----------- |
 | Birthday                | 20/12/1998  |
-| Favorite color          | Orange      |
-| Pinneapple on pizza     | black_square_button     |
+| Favorite color          | orange: Orange      |
+| Pinneapple on pizza     | YES - [ ] NO - [X]     |
 
 #### Hobbies ####
 
