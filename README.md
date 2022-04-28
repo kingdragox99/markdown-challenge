@@ -13,9 +13,9 @@
 #### Hobbies ####
 
 * Playing game
-** CS:GO
-** CS:GO
-** CS:GO
+  + CS:GO
+  + CS:GO
+  + CS:GO
 * Learn new stuff
 * Grow my plants
 * Be with my girlfriend
