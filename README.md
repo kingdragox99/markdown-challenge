@@ -6,7 +6,6 @@
 #### Live like goofy ####
 
 | Birthday                | 20/12/1998  |
-| ------------------------| ----------- |
 | Favorite color          | Orange      |
 Pinneapple on pizza    YES [ ] NO [x]
 
