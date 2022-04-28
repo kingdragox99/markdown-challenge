@@ -20,5 +20,5 @@
 * Grow my plants
 * Be with my girlfriend
 
-#### You can always count on me when... ####
+#### You can always count on me when you need help, I try to help you the best I can ####
 
