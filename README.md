@@ -33,5 +33,5 @@ It's a guy how enter in a coffe and plouf
 
 plouf...
 
-[<< previous](https://)|| ARTHUR ||[next >>](https://)
+[<< previous](https://github.com/Tatooine93/markdown-challenge)|| ARTHUR ||[next >>](https://github.com/DorianMairy/DorianMairy)
 
